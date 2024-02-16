@@ -1,5 +1,7 @@
 # Godot-3-Android-FPS-template
+
 Features:
+
 1: easy-to-understand player movement code
 
 2: multi-touch UI buttons for firing, jumping, and reloading 
